@@ -1,0 +1,4 @@
+interface:
+  display_name: "TinyPNG"
+  short_description: "Compress and optimize images with TinyPNG/Tinify API"
+  default_prompt: "Use the TinyPNG skill workflow to compress, resize, and convert images with optimal quality and format selection."
